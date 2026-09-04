@@ -1,0 +1,16 @@
+{
+  "market": "aicom-plugins",
+  "updated": "2026-09-05T12:00:00+08:00",
+  "plugins": [
+    {
+      "name": "flasher",
+      "title": "RDA 固件烧录",
+      "version": "1.0.0",
+      "group": "烧录",
+      "description": "RDA 8909B 固件烧录：驱动厂商烧录器 fpupgrade.exe，提供固件列表、烧录启动、进度轮询、结果查询等 16 个工具",
+      "asset": "https://github.com/mengxiangrui1211/aicom-plugins/releases/download/flasher-1.0.0/flasher-1.0.0.zip",
+      "sizeMB": 34.4,
+      "requirements": "设备机需 Python 3.10+（venv 已随包，跨机器部署时需同版本 Python 路径一致，详见 aicom-docs）"
+    }
+  ]
+}
