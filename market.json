@@ -1,6 +1,6 @@
 {
   "market": "aicom-plugins",
-  "updated": "2026-09-16T18:58:00.000Z",
+  "updated": "2026-09-17T17:40:00.000Z",
   "plugins": [
     {
       "name": "RDA-8909B-flasher",
@@ -17,10 +17,10 @@
       "name": "RDA-8909B-tracer",
       "title": "RDA-8909B 日志抓取",
       "author": "mengxiangrui",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "group": "日志",
       "description": "RDA 8909B 日志抓取：驱动厂商调试器 CoolWatcher，提供 trace 抓取、检索、统计、导出等 15 个工具",
-      "asset": "https://github.com/mengxiangrui1211/aicom-plugins/releases/download/RDA-8909B-tracer-1.0.0/RDA-8909B-tracer-1.0.0.zip",
+      "asset": "https://github.com/mengxiangrui1211/aicom-plugins/releases/download/RDA-8909B-tracer-1.0.1/RDA-8909B-tracer-1.0.1.zip",
       "sizeMB": 13.6,
       "requirements": "设备机需 Python 3.10+（venv 不随包，AICom 启动时自动创建环境并安装依赖）；需 RDA 8909B 调试器硬件"
     },
